@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Nomad"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "We're building Digital Playground. Human will live a new era, called Online First, Offline Second."
+  location         : "Anywhere and nowhere"
   email            :
   links:
     - label: "Email"
