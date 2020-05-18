@@ -1,22 +1,46 @@
 ---
-title: "Welcome to Jekyll!"
+title: "무엇을 꿈꾸는가"
 date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+categories: 노리 재미
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+기술은 효율적인 세계를 이끌었다. 
+인쇄술은 일일히 수기로 쓰여지는 기록물을 대량배포 가능하게 만들었고,
+자동차는 마차의 힘과 체력에 의존하지 않고도 달릴 수 있게 만들었고,
+망원경은 우주의 신비를 관측할 수 있게 만들었다.
 
-Jekyll also offers powerful support for code snippets:
+인터넷망은 전세계를 걸쳐, 쉽고 빠르게 정보를 공유할 수 있는 세계를 만들었다.
+2000년대에는 많은 사람들이, 정보를 공유하는 것뿐 아니라 정보를 직접 생산하기 시작한다.
+그 정보는 잘 조합되어, 
+이미지, 음성, 영상 컨텐츠가 되기도 하고, 
+자동화, 기계학습 엔진이 되기도 하고,
+자산을 보유하는 장소가 되기도 한다.
+즉, 인터넷망은 가능한 한 모든 것을 실물세계에서 디지털 세계로 끌어오는 데에 중요한 역할을 하였다.
 
-```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-```
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+그러나 기술 발전에 비해 `유희문화`는 상대적으로 경시되어 왔다.
+게임산업은 정치계에서 다루기에는 너무나 수준이 떨어지는 컨텐츠로 인식되었으며,
+영화산업은 그저 사람들을 시간을 떼우는 수준의 컨텐츠로 치부되고,
+K-Pop은 관심받고 싶어하는 10대들이 화장과 염색으로 치장을 하고 알 수 없는 춤을 추는 컨텐츠로 치부되었다.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+그러나 인터넷의 보급이 커지면서, 유희산업은 전세계적으로 영향력을 갖게 되었다.
+유튜브, 게임, 음악 컨텐츠 생산자의 영향력은
+이루 말할 수 없는 소비자가 생겨나면서
+더이상은 무시할 수 없는 수준으로 올라섰다.
+
+더 나아가 정보의 전달은 어떻게 되어야 효율적인가를 보여주는 사례가 되기도 했다.
+위엄있고 격조있고 심각하게 전달하는 정보전달자의 관점이 아닌,
+가볍고 쉬우며 흥미롭게 전달받고자 하는 정보수용자의 관점에서
+정보 전달이 이루어져야 함을 시사하게 되었다.
+
+
+현대 유희에 대한 탐구는
+사상가 한 명이 고민하고 경험한 '사고 실험적' 철학적 세계관보다
+'다수의 실험'을 통해 얻어진 `실증 세계관`이
+인간 본성에 대한 더 정교한 통찰력을 주었다.
+
+
+우리는 이러한 디지털 세계에
+사회적 놀이터를 만들어 보려한다.
+우리는 개인의 즐거움으로부터 `사회적 즐거움`을 이끌어내고자
+끊임없이 노력할 것이다.
